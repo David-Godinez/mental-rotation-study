@@ -9,7 +9,7 @@ Numerous studies of mental rotation have sought to identify the strategies indiv
 
 **K-Means Cluster Analaysis**
 
-Moving forward, we would like to know if there are meaningful clusters of individual differences in the degree to which problem attributes matter. Another benefit of using mixed effects models is that we can extract the random effects and run them through a clustering algorhythm. That is, we can extract the beta coefficients and intercepts for each of the 209 participants use machine learning to help categorize subjects. The following figures identify three subject clusters in our data:
+Moving forward, we would like to know if there are meaningful clusters of individual differences in the degree to which problem attributes matter. Another benefit of using mixed effects models is that we can extract the random effects and run them through a clustering algorithm. That is, we can extract the beta coefficients and intercepts for each of the 209 participants use machine learning to help categorize subjects. The following figures identify three subject clusters in our data:
 
 <img src="Figures/cluster_plot.png" width=350>    <img src="Figures/optimal_clusters.png" width=350>
 
