@@ -108,14 +108,3 @@ fviz_cluster(first_km_acc, data = scaled_rdf_acc, show.clust.cent = TRUE,
              repel = TRUE, stand = TRUE)
 
 
-
-
-
-
-
-
-
-
-
-
-
