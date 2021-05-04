@@ -6,7 +6,7 @@ Numerous studies of mental rotation have sought to identify the strategies indiv
 
 **EDA Figures**
 
-<img src="Figures/acc_facet.png" width=250> <img src="Figures/rt_by_angle_facet.png" width=250> <img src="Figures/rt_by_anglediff.png" width=250>
+<img src="Figures/acc_facet.png" width=260> <img src="Figures/rt_by_angle_facet.png" width=260> <img src="Figures/rt_by_anglediff.png" width=260>
 
 **Model Diagnostics**
 
