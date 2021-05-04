@@ -6,5 +6,5 @@ Numerous studies of mental rotation have sought to identify the strategies indiv
 
 <img src="Figures/acc_facet.png" width=300> <img src="Figures/rt_by_angle_facet.png" width=300> <img src="Figures/rt_by_anglediff.png" width=300>
 
-<img src="Figures/cluster_plot.png" width=300> <img src="Figures/optimal_clusters.png" width=300>
+<img src="Figures/cluster_plot.png" width=300>    <img src="Figures/optimal_clusters.png" width=300>
 
