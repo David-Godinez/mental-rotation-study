@@ -21,8 +21,6 @@ library(performance)
 
 # Data Import -------------------------------------------------------------
 
-setwd("~/Documents/Peterson Lab/MRT Study")
-
 mrt_long <- read_excel("MRT_T1_longform_cleaned.xlsx")
 
 
